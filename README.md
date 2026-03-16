@@ -1,53 +1,70 @@
 # I am Yigod👋
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00FF00&size=22&center=true&vCenter=true&width=600&height=100&lines=>+INITIALIZING+SYSTEM...;>+IDENTITY+VERIFIED:+YIGODS;>+ROLE:+BINARY+SECURITY+RESEARCHER;>+FOCUS:+REVERSE+ENGINEERING+%26+PWN" alt="Typing SVG" />
+</div>
 <picture>
-  <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
+    <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/wenjiew-astro/wenjiew-astro/assets/images/coding.gif" />
 </picture> 
-
-
- <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
-
-<!-- 技术栈徽章（复用你之前的居中代码） -->
-<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
-  <!-- 后端 -->
-  <br/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <!-- 趣味标签 -->
-  <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
+<div>&nbsp;</div>      
+💻 Binary Security Researcher | 🚀 Pwn / Reverse | 🚩 CTF Player
+</p>
 </div>
 
-## 📌 关于我
-- 🔭 目前专注于：reverse&pwn
-- 🌱 学习中：Linux Kernel
-- 💬 擅长：CTF
-- 📫 联系我： [个人博客](https://blog.yigod.top)
-- ⚡ 趣味：Music duangduangduang
+<div>&nbsp;</div>
 
-## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 -->
+<div align="center" style="margin: 20px 0;">
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
+<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=00FF00" />
+
+
+
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=EC3750" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=b1f2a7" />
+<img src="https://img.shields.io/badge/GNU_GDB-000000?style=for-the-badge&logo=gnu&logoColor=EC3750" />
+<img src="https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=00FF00" />
+
+
+
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=ffffff" />
+</div>
+
+## SYSTEM_STATUSconsole
+yigods@pwn-machine:~$ cat ~/.profile
+
+🔭 Current Focus: reverse & pwn
+
+🌱 Learning: Linux Kernel Exploitation
+
+💬 Specialty: CTF (Capture The Flag)
+
+📫 Secure Comms: blog.yigod.top
+
+⚡ Hobby: Music duangduangduang
+
+
+## TELEMETRY
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yigods&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigods&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
 
+## ACTIVITY_RADAR
 
-## 🎨 趣味数据
-<!-- GitHub 贡献图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yigods&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yigods&bg_color=0D1117&color=00FF00&line=00FF00&point=EC3750&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
+
+
+
+
+
+
+
+
