@@ -22,7 +22,7 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: metrics/general.svg
           output_action: commit
-          committer_branch: main
+          committer_branch: metrics
           committer_message: "chore: update profile metrics"
           config_timezone: Asia/Shanghai
           config_display: large
@@ -41,7 +41,7 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: metrics/languages.svg
           output_action: commit
-          committer_branch: main
+          committer_branch: metrics
           committer_message: "chore: update profile metrics"
           config_timezone: Asia/Shanghai
           base: ""
@@ -58,7 +58,7 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: metrics/isocalendar.svg
           output_action: commit
-          committer_branch: main
+          committer_branch: metrics
           committer_message: "chore: update profile metrics"
           config_timezone: Asia/Shanghai
           base: ""

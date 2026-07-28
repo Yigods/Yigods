@@ -14,8 +14,8 @@
 
 > **Security workflow:** map the runtime → validate one primitive → build a stable exploit chain.
 
-<img align="left" width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/metrics/general.svg" alt="General GitHub metrics" />
-<img align="right" width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/metrics/languages.svg" alt="Language metrics" />
+<img align="left" width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/metrics/metrics/general.svg" alt="General GitHub metrics" />
+<img align="right" width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/metrics/metrics/languages.svg" alt="Language metrics" />
 
 <img width="100%" height="1" alt="" />
 
@@ -32,7 +32,7 @@
 ## `activity --visualized`
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/metrics/isocalendar.svg" alt="Isometric contribution calendar" />
+  <img width="100%" src="https://raw.githubusercontent.com/Yigods/Yigods/metrics/metrics/isocalendar.svg" alt="Isometric contribution calendar" />
 </p>
 
 <p align="center">
