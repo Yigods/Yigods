@@ -12,24 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=Yigods&label=PROFILE+VIEWS&color=39d353&style=flat-square" alt="Profile views" />
 </p>
 
-## `$ whoami`
+> **Security workflow:** map the runtime → validate one primitive → build a stable exploit chain.
 
-<img align="right" width="42%" src="https://github-readme-streak-stats.herokuapp.com?user=Yigods&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=58A6FF&currStreakLabel=39D353" alt="GitHub contribution streak" />
+<img align="left" width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/metrics/general.svg" alt="General GitHub metrics" />
+<img align="right" width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/metrics/languages.svg" alt="Language metrics" />
 
-```text
-role      : Binary Security Researcher / CTF Player
-interests : Pwn · Reverse Engineering · Linux Kernel Exploitation
-languages : C · C++ · Python · x86 / x86_64 Assembly
-workflow  : source → runtime → primitive → exploit chain
-```
+<img width="100%" height="1" alt="" />
 
-- Building reproducible Pwn challenges, from heap fundamentals to modern glibc exploitation.
-- Reverse engineering native binaries and validating behavior before trusting assumptions.
-- Learning kernel exploitation through first principles and reliable local reproduction.
-
-<br clear="right" />
-
-## `stack --security`
+## `security --stack`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,docker,git,github,vim&theme=dark&perline=9" alt="C, C++, Python, Bash, Linux, Docker, Git, GitHub and Vim" />
@@ -39,16 +29,14 @@ workflow  : source → runtime → primitive → exploit chain
   <code>GDB</code> · <code>pwndbg</code> · <code>pwntools</code> · <code>IDA</code> · <code>Ghidra</code> · <code>glibc</code> · <code>QEMU</code>
 </p>
 
-## `profile --telemetry`
+## `activity --visualized`
 
-<!-- Cards are generated daily by .github/workflows/profile-summary-cards.yml and committed to this repository. -->
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
-  <img width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" />
+  <img width="100%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/metrics/isocalendar.svg" alt="Isometric contribution calendar" />
 </p>
+
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top repository languages" />
-  <img width="49%" src="https://raw.githubusercontent.com/Yigods/Yigods/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top commit languages" />
+  <img width="62%" src="https://github-readme-streak-stats.herokuapp.com?user=Yigods&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=58A6FF&currStreakLabel=39D353" alt="GitHub contribution streak" />
 </p>
 
 ## `selected --work`
